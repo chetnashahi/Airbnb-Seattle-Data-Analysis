@@ -1,6 +1,6 @@
 # Airbnb-Seattle-Data-Analysis
 
-Airbnb is one of the most popular online marketplace to match home owners to travelers. While planning the stay travelers look at multiple factors of the shortlisted properties, one of the most important being price of property. 
+Airbnb is most popular option for travelers as its very convenient and affordable. 
 
 In this project, we will be analyzing Seattle property listings of the datasets downloaded from Kaggle. This project provides us with three datasets: Property Listings, Calendar & Reviews of Properties. I will be posting few business questions and will solve those questions with help of visualizations and data analysis.
 
