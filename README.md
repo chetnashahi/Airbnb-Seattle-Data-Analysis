@@ -40,6 +40,6 @@ Based on our analysis so far we conclude that July month sees the highest price 
 I will be working on building price prediction model on this dataset using some key features only. We will also be cominging Boston Airbnb dataset to this.
 
 ## References
-[Kaggle](https://www.kaggle.com/)
-[Udacity](https://classroom.udacity.com/)
-[Python PEP8 Standards](https://www.python.org/dev/peps/pep-0008/)
+- [Kaggle](https://www.kaggle.com/)
+- [Udacity](https://classroom.udacity.com/)
+- [Python PEP8 Standards](https://www.python.org/dev/peps/pep-0008/)
