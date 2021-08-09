@@ -25,13 +25,21 @@ Our analysis is to understand factors that influences pricings, doing deeper ana
 
 ## Packages Used 
 
-> Numpy
-> Matplot Lib
-> Seaborn
-> USFederalHolidays
-> DateTime
+-  Numpy
+-  Matplot Lib
+-  Seaborn
+-  USFederalHolidays
+-  DateTime
 
 The detailed blog post is also published on [Medium](https://chetna-shahi31.medium.com/airbnb-seattle-data-analysis-a39a3481fc7b)
+
+## Summary
+Based on our analysis so far we conclude that July month sees the highest price while Jan has the lowest dip. After doing a deep dive into it, we understand 4th July has the highest pricing compared to all the other holidays, owing to Independence Day. Boat is one of the most expensive properties offerings. Weekends also sees higher prices compared to weekdays and more the number of beds, bedrooms, bathrooms, higher the price goes. Now when you plan the next trip, you can take above factors into consideration to get the best bet.
+
 ## Future Scope of Work
 I will be working on building price prediction model on this dataset using some key features only. We will also be cominging Boston Airbnb dataset to this.
 
+## References
+[Kaggle](https://www.kaggle.com/)
+[Udacity](https://classroom.udacity.com/)
+[Python PEP8 Standards](https://www.python.org/dev/peps/pep-0008/)
